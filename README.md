@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Mishra
 - 👀 I’m interested in applying my problem solving skills.
-- 🌱 I’m currently learning frondend and backend Web Skills
+- 🌱 I’m currently learning frontend and backend Web Skills
 - 💞️ I’m looking to collaborate on some web technology projects.
 - 📫 How to reach me ...
 
