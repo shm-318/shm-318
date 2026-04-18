@@ -1,52 +1,95 @@
-## Hey, [Shivam here!]
+# Hey, I'm Shivam 👋
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+## Backend Engineer • Problem Solver • AI Systems Explorer
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+Welcome to my corner of the internet — where backend systems, clean architecture, and continuous learning come together.
 
-[![Linkedin Badge](https://img.shields.io/badge/-shivam?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-mishra-02324a157)](https://www.linkedin.com/in/shivam-mishra-02324a157) [![Gmail Badge](https://img.shields.io/badge/-shivam318@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivam318@gmail.com)](mailto:shivam318@gmail.com) 
+---
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+## 🚀 About Me
 
-## :computer: Technologies I Love
-* Machine Learning
-* Frontend and Backend Web Development
+I'm a software engineer focused on **backend development**, building scalable and reliable systems with a strong emphasis on clean design and practical engineering.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shm-318&layout=compact">
+My journey started with mobile development, and over time I transitioned into backend engineering — where I now work primarily with APIs, services, databases, and system design.
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
- 
- ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Shivam Mishra'
-		current_edu = "National Institute Of Technology, Patna"
-		hobbies = [
-				'Bathroom Singning',
-				'Watching Documentaries',
-				'Reading Sci-Fi Novels',
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Samastipur_India()
-	
-	def Ambitions():
-		LearnDP()
-		FinishMyProjects()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * I'm currently working on 🔭 building **That one Project I can explain during my interview :))** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with Machine Learning
+Currently, I'm sharpening my skills in:
 
-![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shm-318&show_icons=true&hide=[%22issues%22])
- 
- 
+* **Backend Engineering**
+* **Low-Level & High-Level System Design**
+* **Data Structures & Algorithms**
+* **GenAI / Agentic AI Fundamentals**
+* **Writing production-quality code**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` `Go` `C++` `JavaScript` `SQL`
+
+### Backend & Frameworks
+
+`Flask` `Django` `REST APIs` `Microservices`
+
+### Databases & Tools
+
+`PostgreSQL` `MySQL` `Git` `Docker` `Linux`
+
+### Exploring
+
+`LLMs` `RAG` `Prompt Engineering` `AI Agents`
+
+---
+
+## 🧠 Engineer Mindset
+
+```python
+class Shivam:
+    role = "Backend Engineer"
+    focus = [
+        "Scalable APIs",
+        "System Design",
+        "Problem Solving",
+        "Clean Code",
+        "Continuous Learning"
+    ]
+
+    currently_learning = [
+        "Distributed Systems",
+        "Advanced DSA",
+        "GenAI Systems"
+    ]
+
+    def mission(self):
+        return "Build systems that are simple, reliable, and impactful."
+```
+
+---
+
+## 📌 Current Focus
+
+* Building stronger backend fundamentals for **SDE-2 level roles**
+* Practicing **DSA for interviews**
+* Learning **system design deeply**
+* Building hands-on projects involving **AI workflows**
+* Improving communication & technical explanation skills
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shm-318\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shm-318\&layout=compact\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shivam-mishra-02324a157)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge\&logo=gmail)](mailto:shivam318@gmail.com)
+
+---
+
+> "Great systems are built one clean decision at a time."
